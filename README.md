@@ -1,4 +1,4 @@
-# Tik Tok Auto Views V2 and and the difference
+[![Run on Repl.it](https://repl.it/badge/github/kangoka/tiktok-autoviewsv2-py)](https://repl.it/github/kangoka/tiktok-autoviewsv2-py)# Tik Tok Auto Views V2 and and the difference
 **Tik Tok Auto Views V1 (previous project):**\
   Only get 200-1000 (options) views every 5 minutes (it's good thing and bad thing at the same time)\
   \
